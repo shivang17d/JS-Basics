@@ -1,0 +1,27 @@
+ECMAScript is a JavaScript standard intended to ensure 
+the interoperability of web pages across different browsers.
+
+ES6 stands for ECMAScript 6. 
+ECMAScript was created to standardize JavaScript and ES6 is the 6th version of ECMAScript.
+It was published in 2015 and is also known as ECMAScript 2015.
+
+JavaScript is a lightweight and interpreted language.
+JavaScript is a light-weight object-oriented programming language.
+JavaScript is a scripting language that enables you to create dynamically updating content, 
+control multimedia, animate images, and pretty much everything else.
+
+
+JavaScript is primarily used for client-side scripting language.
+Javascript can only be run in the browsers.
+
+
+Node.js is a server-side scripting language based on the Google Chrome V8 engine.
+Node.js is an open-source, cross-platform JavaScript runtime environment. 
+Node.js allows you to run JavaScript on the server.  
+We can run Javascript outside the browser with the help of NodeJS
+
+JavaScript is a dynamically typed language, but TypeScript is a statically typed language.
+
+Dynamically-typed languages are those (like JavaScript) where the interpreter
+assigns variables a type at runtime based on the variable's value 
+at the time.
